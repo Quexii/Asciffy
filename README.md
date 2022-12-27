@@ -41,8 +41,10 @@ dependencies {
 </repositories>
   
 <dependencies>
-	    <groupId>com.github.Quexii</groupId>
-	    <artifactId>Asciffy</artifactId>
-	    <version>1.0</version>
+    <dependency>
+        <groupId>com.github.Quexii</groupId>
+        <artifactId>Asciffy</artifactId>
+        <version>1.0</version>
+    </dependency>
 </dependencies>
 ```
