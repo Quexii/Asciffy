@@ -2,15 +2,11 @@
 Very simple snippet that allows you to change normal text to un-escaped ascii codes
 ## Usage
 
-First you need to load all the codes from the provided JSON to a map
-  `Asciffycator.load();`
-  
-Then you can change any text you like by doing the following
+You can change any text you like by doing the following
   `Asciffycator.getAsciiString("Any text here!");`
 
 ### Very long snippet
 ```java
-Asciffycator.load();
 String asciiString = Asciffycator.getAsciiString("Hello World!");
 ```
 
