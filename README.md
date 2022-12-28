@@ -22,7 +22,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Quexii:Asciffy:test'
+    implementation 'com.github.Quexii:Asciffy:(release version)'
 }
 ```
 
@@ -40,7 +40,7 @@ dependencies {
     <dependency>
         <groupId>com.github.Quexii</groupId>
         <artifactId>Asciffy</artifactId>
-        <version>1.0</version>
+        <version>(release version)</version>
     </dependency>
 </dependencies>
 ```
